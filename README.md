@@ -3,7 +3,7 @@
 
 
 ## Integrantes
-Christian da Silva Rodrigues
+CHRISTIAN DA SILVA RODRIGUES
 
 
 
@@ -15,13 +15,13 @@ O aplicativo ReCiclo conecta pessoas que desejam doar itens com pessoas que prec
 
 ## Descrição das telas
 
-- Tela de Feed / Home: Exibe os itens disponíveis para doação.
-- Tela de Cadastro de novo item: Permite cadastrar um novo item.
-- Tela de Filtros de busca: Permite filtrar por categoria e distância e estados.
-- Tela de Itens Filtrados: Mostra opções de itens filtrados.
-- Tela de Detalhes do item: Mostra informações do item e opção de contato.
-- Tela de Chat: Comunicação entre os usuários.
-- Tela de Perfil do Usuário com suas conquistas: Mostra informações do usuário / doador.
+- **Tela de Feed / Home:** *Exibe os itens disponíveis para doação.*
+- **Tela de Cadastro de novo item:** *Permite cadastrar um novo item.*
+- **Tela de Filtros de busca:** *Permite filtrar por categoria e distância e estados.*
+- **Tela de Itens Filtrados:** *Mostra opções de itens filtrados.*
+- **Tela de Detalhes do item:** *Mostra informações do item e opção de contato.*
+- **Tela de Chat:** *Comunicação entre os usuários.*
+- **Tela de Perfil do Usuário com suas conquistas:** *Mostra informações do usuário / doador.*
 
 
 
